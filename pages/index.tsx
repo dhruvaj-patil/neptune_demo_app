@@ -1,7 +1,5 @@
-// import { useWeb3React } from '@web3-react/core';
 import Head from 'next/head'
 import React, { useEffect, useState } from 'react';
-// import { injected } from '../utils/connector';
 import { Dialog } from '@headlessui/react'
 
 
